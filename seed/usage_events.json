@@ -1,0 +1,14 @@
+[
+  { "eventId": "E001", "studentId": "ST01", "deviceId": "DV01", "appId": "A1", "start": "2026-10-19T14:00:00Z", "end": "2026-10-19T14:25:00Z" },
+  { "eventId": "E002", "studentId": "ST01", "deviceId": "DV01", "appId": "A2", "start": "2026-10-19T15:00:00Z", "end": "2026-10-19T15:40:00Z" },
+  { "eventId": "E003", "studentId": "ST01", "deviceId": "DV01", "appId": "A2", "start": "2026-10-19T15:00:00Z", "end": "2026-10-19T15:40:00Z" },
+  { "eventId": "E004", "studentId": "ST02", "deviceId": "DV02", "appId": "A3", "start": "2026-10-20T16:00:00Z", "end": "2026-10-20T17:00:00Z" },
+  { "eventId": "E005", "studentId": "ST02", "deviceId": "DV03", "appId": "A3", "start": "2026-10-20T16:30:00Z", "end": "2026-10-20T17:15:00Z" },
+  { "eventId": "E006", "studentId": "ST02", "deviceId": "DV03", "appId": "A4", "start": "2026-10-20T22:10:00Z", "end": "2026-10-20T21:50:00Z" },
+  { "eventId": "E007", "studentId": "ST03", "deviceId": "DV04", "appId": "A6", "start": "2026-10-21T13:00:00Z", "end": "2026-10-21T13:45:00Z" },
+  { "eventId": "E008", "studentId": "ST04", "deviceId": "DV05", "appId": "A5", "start": "2026-10-22T18:00:00Z", "end": "2026-10-22T19:30:00Z" },
+  { "eventId": "E009", "studentId": "ST04", "deviceId": "DV06", "appId": "A4", "start": "2026-10-22T23:00:00Z", "end": null },
+  { "eventId": "E010", "studentId": "ST04", "deviceId": "DV06", "appId": "A5", "start": "2027-03-01T10:00:00Z", "end": "2027-03-01T10:20:00Z" },
+  { "eventId": "E011", "studentId": "ST05", "deviceId": "DV07", "appId": "A1", "start": "2026-10-23T14:00:00Z", "end": "2026-10-23T14:30:00Z" },
+  { "eventId": "E012", "studentId": "ST03", "deviceId": "DV04", "appId": "A2", "start": "2026-10-24T15:00:00Z", "end": "2026-10-24T15:20:00Z" }
+]

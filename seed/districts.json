@@ -1,0 +1,14 @@
+[
+  {
+    "id": "D1",
+    "name": "Maple Unified",
+    "studentCount": 2100,
+    "visibleCategories": ["apps", "screenTime", "devices", "contentRatings", "dataSharing"]
+  },
+  {
+    "id": "D2",
+    "name": "Riverside ISD",
+    "studentCount": 310000,
+    "visibleCategories": ["apps", "contentRatings", "dataSharing"]
+  }
+]

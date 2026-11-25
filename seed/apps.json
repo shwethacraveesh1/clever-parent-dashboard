@@ -1,0 +1,8 @@
+[
+  { "id": "A1", "name": "MathQuest", "category": "Math practice", "ageRating": 6, "dataReceived": ["Name", "Grade", "School"] },
+  { "id": "A2", "name": "ReadAlong", "category": "Reading", "ageRating": 4, "dataReceived": ["Name", "Grade", "Reading level"] },
+  { "id": "A3", "name": "CodeLab", "category": "Computer science", "ageRating": 9, "dataReceived": ["Name", "Email", "Grade"] },
+  { "id": "A4", "name": "VideoHub EDU", "category": "Video", "ageRating": 13, "dataReceived": ["Email"] },
+  { "id": "A5", "name": "ChatTutor", "category": "AI tutoring", "ageRating": 13, "dataReceived": ["Name", "Email", "Grade", "Chat history"] },
+  { "id": "A6", "name": "SciSim", "category": "Science", "ageRating": 9, "dataReceived": ["Name", "Grade"] }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "ST01", "name": "Maya Okafor", "grade": 3, "districtId": "D1" },
+  { "id": "ST02", "name": "Leo Okafor", "grade": 7, "districtId": "D1" },
+  { "id": "ST03", "name": "Sam Reyes", "grade": 5, "districtId": "D2" },
+  { "id": "ST04", "name": "Ava Lindqvist", "grade": 10, "districtId": "D1" },
+  { "id": "ST05", "name": "Noah Brandt", "grade": 8, "districtId": "D2" }
+]

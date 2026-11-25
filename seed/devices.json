@@ -1,0 +1,9 @@
+[
+  { "id": "DV01", "studentId": "ST01", "type": "Chromebook", "managedBySchool": true },
+  { "id": "DV02", "studentId": "ST02", "type": "Chromebook", "managedBySchool": true },
+  { "id": "DV03", "studentId": "ST02", "type": "Home laptop (browser extension)", "managedBySchool": false },
+  { "id": "DV04", "studentId": "ST03", "type": "iPad", "managedBySchool": true },
+  { "id": "DV05", "studentId": "ST04", "type": "Chromebook", "managedBySchool": true },
+  { "id": "DV06", "studentId": "ST04", "type": "Home laptop (browser extension)", "managedBySchool": false },
+  { "id": "DV07", "studentId": "ST05", "type": "Chromebook", "managedBySchool": true }
+]

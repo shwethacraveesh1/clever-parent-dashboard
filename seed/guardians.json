@@ -1,0 +1,47 @@
+[
+  {
+    "id": "G01",
+    "name": "Ruth Okafor",
+    "email": "ruth.okafor@example.com",
+    "accountStatus": "active",
+    "links": [
+      { "studentId": "ST01", "status": "Verified" },
+      { "studentId": "ST02", "status": "Verified" }
+    ]
+  },
+  {
+    "id": "G02",
+    "name": "Daniel Reyes",
+    "email": "dan.reyes@example.com",
+    "accountStatus": "active",
+    "links": [{ "studentId": "ST03", "status": "Verified" }]
+  },
+  {
+    "id": "G03",
+    "name": "Priya Lindqvist",
+    "email": "priya.l@example.com",
+    "accountStatus": "active",
+    "links": [{ "studentId": "ST04", "status": "Verified" }]
+  },
+  {
+    "id": "G04",
+    "name": "Erik Lindqvist",
+    "email": "erik.l@example.com",
+    "accountStatus": "active",
+    "links": [{ "studentId": "ST04", "status": "Verified" }]
+  },
+  {
+    "id": "G05",
+    "name": "Jamie Brandt",
+    "email": "jamie.brandt@example.com",
+    "accountStatus": "active",
+    "links": [{ "studentId": "ST05", "status": "Revoked" }]
+  },
+  {
+    "id": "G06",
+    "name": "Chris Moreno",
+    "email": "chris.m@example.com",
+    "accountStatus": "pending_verification",
+    "links": []
+  }
+]
